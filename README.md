@@ -8,11 +8,19 @@ Escriba un programa de Python magic8.py que pueda responder cualquier pregunta "
 Usaremos las siguientes 9 respuestas posibles para nuestro Magic 8-Ball:
 
 -Yes - definitely.
+
 -It is decidedly so.
+
 -Without a doubt.
+
 -Reply hazy, try again.
+
 -Ask again later.
+
 -Better not tell you now.
+
 -My sources say no.
+
 -Outlook not so good.
+
 -Very doubtful.
