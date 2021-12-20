@@ -1,5 +1,5 @@
 name = "Estefania"
-question = "Hace calor?"
+question = "Haz una pregunta"
 answer = ""
  
 
